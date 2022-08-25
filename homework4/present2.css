@@ -1,0 +1,29 @@
+table.terms th{
+  color: red;;
+}
+table.terms tfoot{
+    text-align-last: center;
+}
+table.villeman span{
+color: red;
+}
+.serp{
+  background-color: blue;
+}
+.bots{
+  background-color: grey;
+}
+tbody.dead th.wollen{
+  background-color: white;
+  empty-cells: show;
+}
+.game{
+  background-color:red;
+}
+.agnos{
+  background-color: blue;
+}
+table.villeman{
+  width: 70%;
+  height: 800px;
+}

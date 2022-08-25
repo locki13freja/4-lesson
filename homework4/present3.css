@@ -1,0 +1,69 @@
+table.med th{
+    color: white;
+    background-color: greenyellow;
+}
+tr.munchers td{
+    background-color: salmon;
+}
+table.teatre th{
+    background-color: aquamarine;
+}
+table.teatre td{
+    color: blue;
+}
+table.teatre{
+    border-color: aquamarine;
+}
+table.vill th{
+    background-color: maroon;
+}
+tr.main td{
+    background-color:blue;
+}
+tr.foot td{
+    background-color: brown;
+}
+.mod{
+    background-color:green;
+}
+table.german{
+    width: 400px;
+    height: 340px;
+}
+.zed{
+    background-color: green;
+    border-color: blueviolet;
+}
+.er{
+    border-left: 6px solid red;
+}
+.ed{
+    border-left: 6px solid blue;
+}
+.et{
+    border-left: 6px solid yellow;
+}
+.ec{
+    border-left: 6px solid green;
+}
+.ev{
+    border-left: 6px solid red;
+}
+.em{
+    border-left: 6px solid blue;
+}
+.ez{
+    border-left: 6px solid yellow;
+}
+.ep{
+    border-left: 6px solid green;
+}
+.red{
+    color: red;
+}
+div.zond span{
+    color: red;
+}
+.bond{
+    color: green;
+}
